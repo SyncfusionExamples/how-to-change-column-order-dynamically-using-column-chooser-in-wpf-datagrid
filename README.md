@@ -1,4 +1,4 @@
-# How to change column order dynamically using column chooser in wpf datagrid?
+# How to change column order dynamically using column chooser in WPF DataGrid (SfDataGrid)?
 
 This example illustrates how to change column order dynamically using column chooser in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
