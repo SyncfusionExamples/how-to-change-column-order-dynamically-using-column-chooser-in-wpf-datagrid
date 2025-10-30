@@ -4,7 +4,7 @@ This example illustrates how to change column order dynamically using column cho
 
 The [ColumnChooser](https://help.syncfusion.com/wpf/datagrid/interactive-features#%22columnchooser%22) allows you to add or remove columns dynamically from the current view of grid by drag-and-drop operations in DataGrid. You can change the column order dynamically through column chooser by using the `BaseCommand` class as shown in the below code snippet,
 
-## C#
+#### C#
 ```c#
 public CustomColumnChooserViewModel(ObservableCollection<ColumnChooserItems> hiddenColumns, ObservableCollection<ColumnChooserItems> visibleColumns)
 {
@@ -133,7 +133,7 @@ void OkayClick(object obj)
 ```
 
 
-## XAML
+#### XAML
 ```xml
 <Grid>
     <Grid.RowDefinitions>
